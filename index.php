@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>JAIME JEOVANNY CORTEZ FLORES</title>
+        <title>HÉCTOR ALEJANDRO ALAS FUENTES</title>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -17,7 +17,7 @@
                     <div class="col"></div>
                     <div class="col">
                         <div class="align-items-center">
-                            <p>Jaime Jeovanny Cortez Flores</p>
+                            <p>Héctor Alejandro Alas Fuentes</p>
                             <form name="frm_login" id="frm_login" action="core/process.php">
                                 <table>
                                     <thead>
